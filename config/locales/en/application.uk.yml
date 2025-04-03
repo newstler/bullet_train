@@ -1,0 +1,14 @@
+uk:
+  application:
+    name: Безіменна програма
+    owner: Невідомий розробник
+    description: Ви можете оновити цей опис у файлі `config/locales/en/application.en.yml`.
+    keywords: ключові слова SEO безіменної програми
+    support_email: change.me@localhost
+    key: untitled_application
+  webhooks/outgoing/endpoints:
+    fields:
+      api_version:
+        options:
+          1: V1
+          # 🚅 super scaffolding will insert new api versions above this line.

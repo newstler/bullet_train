@@ -1,0 +1,15 @@
+uk:
+  user_mailer:
+    signature:
+      html: <p>Якщо у Вас виникли будь-які запитання, будь ласка, не вагайтеся <a href="mailto:%{support_email}">надіслати нам електронного листа</a>.</p> <p>З повагою,<br>Команда Untitled Application</p>
+    invited:
+      subject: Запрошення приєднатися до %{team_name} в Untitled Application!
+      preview: "%{inviter_name} надіслав(-ла) Вам це запрошення."
+      heading: Вас запрошено!
+      body:
+        html: "<p> %{inviter_name} запросив(-ла) Вас приєднатися до %{team_name} в Untitled Application. Ви можете приєднатися до %{team_name}, натиснувши кнопку нижче. </p>"
+      cta:
+        label: Приєднатися до %{team_name}
+      signature:
+        html: <p>Якщо у Вас виникли будь-які запитання, будь ласка, не вагайтеся <a href="mailto:%{support_email}">надіслати нам електронного листа</a>.</p> <p>З повагою,<br>Команда Untitled Application</p>
+    welcome:
